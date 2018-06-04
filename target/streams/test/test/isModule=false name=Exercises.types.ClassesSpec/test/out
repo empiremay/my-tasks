@@ -1,2 +1,4 @@
 [0m[[0m[0minfo[0m] [0m[0m[32mClassesSpec:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mPerson[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should provide proper summary[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should provide proper summary when names are not specified[0m[0m

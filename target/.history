@@ -1,3 +1,9 @@
 projects
 test
 testOnly Exercises.types.ClassesSpec
+test
+testOnly Exercises.types.ClassesSpec
+test
+testOnly Exercises.types.ObjectsSpec
+test
+exit

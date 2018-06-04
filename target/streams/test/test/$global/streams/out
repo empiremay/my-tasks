@@ -1,10 +1,22 @@
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Exercises.types.ClassesSpec, org.scalatest.tools.Framework$$anon$1@56b990d7, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(example.HelloSpec, org.scalatest.tools.Framework$$anon$1@56b990d7, false, [SuiteSelector])[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 333 milliseconds.[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 3[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 2, aborted 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 3, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(example.HelloSpec, org.scalatest.tools.Framework$$anon$1@1410d40a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Exercises.types.CaseclassesSpec, org.scalatest.tools.Framework$$anon$1@1410d40a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Exercises.types.LiteralsSpec, org.scalatest.tools.Framework$$anon$1@1410d40a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Exercises.types.ClassesSpec, org.scalatest.tools.Framework$$anon$1@1410d40a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Exercises.types.ObjectsSpec, org.scalatest.tools.Framework$$anon$1@1410d40a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Exercises.types.OptionsSpec, org.scalatest.tools.Framework$$anon$1@1410d40a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Exercises.types.TuplesSpec, org.scalatest.tools.Framework$$anon$1@1410d40a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Exercises.types.TraitsSpec, org.scalatest.tools.Framework$$anon$1@1410d40a, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 469 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 27[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 8, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 27, failed 0, canceled 0, ignored 0, pending 0[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercises.types.TuplesSpec[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Exercises.types.ClassesSpec[0m
 [0m[[0m[0mdebug[0m] [0m[0m	example.HelloSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercises.types.LiteralsSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercises.types.CaseclassesSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercises.types.TraitsSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercises.types.OptionsSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercises.types.ObjectsSpec[0m

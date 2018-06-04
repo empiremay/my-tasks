@@ -1,0 +1,8 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mCaseclassesSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCase classes[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should implement eq/equals method[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should have an automatic hashcode method that works[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should have a convenient toString method defined[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should have automatic properties[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should have safer alternatives for altering[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should can have default and named parameters[0m[0m

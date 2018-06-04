@@ -1,0 +1,9 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mLiteralsSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mBoolean[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be either true or false, using the true or false keyword[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mIntegers[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be created from decimals as well as hexadecimals[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mLongs[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be specified by appending an L or l at the end of the declaration[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFloat and Double[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be defined using a f or F suffix (float) or d or D suffix (double)[0m[0m

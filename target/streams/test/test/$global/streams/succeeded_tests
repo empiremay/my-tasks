@@ -1,4 +1,10 @@
 #Successful Tests
-#Mon May 28 19:36:07 CEST 2018
-Exercises.types.ClassesSpec=1527528967617
-example.HelloSpec=1527527788742
+#Mon Jun 04 13:10:23 CEST 2018
+Exercises.types.ClassesSpec=1528110623442
+example.HelloSpec=1528110623435
+Exercises.types.OptionsSpec=1528110623499
+Exercises.types.TraitsSpec=1528110623482
+Exercises.types.ObjectsSpec=1528110623514
+Exercises.types.CaseclassesSpec=1528110623448
+Exercises.types.LiteralsSpec=1528110623448
+Exercises.types.TuplesSpec=1528110623491
