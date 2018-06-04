@@ -1,0 +1,31 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging C:\Users\tatin\Desktop\carpeta\my-tasks\target\scala-2.12\my-tasks_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\example\mytasks\http\Routes.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\tatin\Desktop\carpeta\my-tasks\target\scala-2.12\classes\com\example\mytasks\http\Routes.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\example\mytasks\http\Routes$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\tatin\Desktop\carpeta\my-tasks\target\scala-2.12\classes\com\example\mytasks\http\Routes$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\example\mytasks[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\tatin\Desktop\carpeta\my-tasks\target\scala-2.12\classes\com\example\mytasks[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Hello$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\tatin\Desktop\carpeta\my-tasks\target\scala-2.12\classes\example\Hello$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\tatin\Desktop\carpeta\my-tasks\target\scala-2.12\classes\example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\tatin\Desktop\carpeta\my-tasks\target\scala-2.12\classes\com\example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\tatin\Desktop\carpeta\my-tasks\target\scala-2.12\classes\example\Hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Greeting.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\tatin\Desktop\carpeta\my-tasks\target\scala-2.12\classes\example\Greeting.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Hello$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\tatin\Desktop\carpeta\my-tasks\target\scala-2.12\classes\example\Hello$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\example\mytasks\HttpServer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\tatin\Desktop\carpeta\my-tasks\target\scala-2.12\classes\com\example\mytasks\HttpServer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\example\mytasks\Server.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\tatin\Desktop\carpeta\my-tasks\target\scala-2.12\classes\com\example\mytasks\Server.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\example\mytasks\Server$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\tatin\Desktop\carpeta\my-tasks\target\scala-2.12\classes\com\example\mytasks\Server$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\example\mytasks\http[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\tatin\Desktop\carpeta\my-tasks\target\scala-2.12\classes\com\example\mytasks\http[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\tatin\Desktop\carpeta\my-tasks\target\scala-2.12\classes\com[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

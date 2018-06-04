@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\tatin\Desktop\carpeta\my-tasks\src\main\scala\com.example.mytasks\Server.scala:15:59: Cannot find an implicit ExecutionContext. You might pass[0m
+[0m[[0m[31merror[0m] [0m[0man (implicit ec: ExecutionContext) parameter to your method[0m
+[0m[[0m[31merror[0m] [0m[0mor import scala.concurrent.ExecutionContext.Implicits.global.[0m
+[0m[[0m[31merror[0m] [0m[0m    BlazeBuilder[F].bindHttp().mountService(service, "/").serve[0m
+[0m[[0m[31merror[0m] [0m[0m                                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
