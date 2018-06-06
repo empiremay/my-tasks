@@ -9,7 +9,7 @@
 		extra-sbtVersion="1.0"
 		conf="plugin"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
-		date="20180604191809"/>
+		date="20180606182957"/>
 	<dependencies>
 		<module organisation="org.spire-math" name="kind-projector_2.12">
 			<revision name="0.9.6" status="release" pubdate="20180208192744" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://github.com/non/kind-projector" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="0">

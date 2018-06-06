@@ -4,7 +4,7 @@
 		module="my-tasks_2.12"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20180604190704"
+		publication="20180606183008"
 	>
 		<description>
 		my-tasks
@@ -37,5 +37,9 @@
 		<dependency org="org.http4s" name="http4s-blaze-server_2.12" rev="0.18.12" conf="compile->default(compile)"/>
 		<dependency org="org.http4s" name="http4s-circe_2.12" rev="0.18.12" conf="compile->default(compile)"/>
 		<dependency org="org.http4s" name="http4s-dsl_2.12" rev="0.18.12" conf="compile->default(compile)"/>
+		<dependency org="io.circe" name="circe-core_2.12" rev="0.9.3" conf="compile->default(compile)"/>
+		<dependency org="io.circe" name="circe-generic_2.12" rev="0.9.3" conf="compile->default(compile)"/>
+		<dependency org="io.circe" name="circe-parser_2.12" rev="0.9.3" conf="compile->default(compile)"/>
+		<dependency org="io.circe" name="circe-literal_2.12" rev="0.9.3" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>

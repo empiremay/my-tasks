@@ -4,7 +4,7 @@
 		module="my-tasks-build"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20180604191809"
+		publication="20180606182957"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>
